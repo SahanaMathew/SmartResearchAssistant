@@ -1,0 +1,14 @@
+streamlit==1.43.2
+langchain==0.3.25
+langchain-google-genai==2.1.4
+langchain-pinecone==0.2.4
+langchain-community==0.3.24
+langchain-core==0.3.83
+langchain-text-splitters==0.3.11
+pinecone==6.0.2
+pypdf==5.4.0
+tavily-python==0.5.1
+python-dotenv==1.1.0
+tiktoken==0.9.0
+pydantic==2.9.2
+numpy==1.26.4
