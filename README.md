@@ -2,8 +2,7 @@
 
 A RAG-powered document Q&A system where users upload PDFs and an AI agent answers questions using those documents — with web search fallback when the documents aren't enough.
 
-**Live Demo:** [your-app.streamlit.app](https://your-app.streamlit.app) ← update after deployment
-**Loom Walkthrough:** [link here] ← record after deployment
+**Live Demo:** [[your-app.streamlit.app](https://your-app.streamlit.app)](https://smartresearchassistant-kxpfjhe7jtrw5tpauzdeze.streamlit.app/) ← update after deployment
 
 ---
 
